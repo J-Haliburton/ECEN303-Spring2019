@@ -37,7 +37,7 @@ Undergraduate Students
 * Ethan Grayg
 * Zachary Griffin, [zaxhattack](https://github.com/zaxhattack)
 * Joshua Haleg
-* Joshua Haliburtong
+* Joshua Haliburton, [J-Haliburton](https://github.com/J-Haliburton) 
 * John Hendersong
 * Joseph Hinzg, [joehinz](https://github.com/joehinz)
 * Andy Hog
@@ -81,7 +81,7 @@ Undergraduate Students
 * Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
 * Mohammad Zamang
 * Daniel Zamarron
-* Dolapo Awe [dawe101](https://github.com/dawe101)
+* Dolapo Awe [dawe101](https://github.com/dawe101) 
   
 
 Faculty Members
